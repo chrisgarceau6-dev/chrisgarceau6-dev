@@ -13,7 +13,7 @@ Looking for internships in **product, design, AI engineering, or growth.**
 
 ### Projects
 
-**[Rally](https://github.com/chrisgarceau6-dev/rally)** — A mobile-first marketplace for
+**[Rally](https://github.com/chrisgarceau6-dev/rally)** · **[live](https://rally-kappa-five.vercel.app)** — A mobile-first marketplace for
 UMass students, built around dorm-room swaps. A reciprocal matching algorithm ranks
 suggested swaps by area, room type, building, gender preference, and recency. Launched to
 **58 listings from ~50 students across all five residential areas in the first week.**
@@ -25,7 +25,7 @@ filling with stale posts. Currently rebuilding for fall with rides, sublets, mar
 errands, and lost & found planned.
 *Next.js · React · TypeScript · Tailwind · Supabase · Vercel*
 
-**[AI Options Terminal](https://github.com/chrisgarceau6-dev/ai-options-terminal)** — A
+**[AI Options Terminal](https://github.com/chrisgarceau6-dev/ai-options-terminal)** · **[live](https://sincere-charisma-production-992c.up.railway.app)** — A
 real-time product that helps retail options traders find high-probability setups without
 manual research. Auto-scans 500+ S&P 500 stocks and ETFs three times per trading day, uses
 AI to generate plain-English trade theses, and surfaces the best opportunities through a
