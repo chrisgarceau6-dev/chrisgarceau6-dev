@@ -63,4 +63,4 @@ TypeScript · React / Next.js · Node · Python · PostgreSQL / Supabase · Tail
 
 ---
 
-*Needham, MA · [LinkedIn](https://www.linkedin.com/in/chrisjgarceau) · chrisgarceau6@gmail.com*
+*Needham, MA · [LinkedIn](https://www.linkedin.com/in/chrisjgarceau) · chrisjgarceau@gmail.com*
