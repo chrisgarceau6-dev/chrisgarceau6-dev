@@ -25,6 +25,16 @@ filling with stale posts. Currently rebuilding for fall with rides, sublets, mar
 errands, and lost & found planned.
 *Next.js · React · TypeScript · Tailwind · Supabase · Vercel*
 
+**[Commons Quest](https://github.com/chrisgarceau6-dev/commons-quest)** · **[live](https://chrisgarceau6-dev.github.io/commons-quest/)** — A
+meal planner for UMass dining that turns eating into a pixel-art RPG: each dining hall is a
+boss, your calorie goal is its HP, and every meal you log is an attack. It knows about 2,200
+campus foods with nutrition, allergens and hours, refreshed nightly by a GitHub Actions
+pipeline that won't publish bad data, and suggests what to eat based on your goals, diet and
+allergies. Type "2 slices pepperoni pizza at berk" and an on-device parser logs it, with no
+server and no API cost. Unit and end-to-end tests run on every push. Tap *try the demo* to look
+around without setting anything up.
+*JavaScript · Python · GitHub Actions · Playwright*
+
 **[AI Options Terminal](https://github.com/chrisgarceau6-dev/ai-options-terminal)** · **[live](https://sincere-charisma-production-992c.up.railway.app)** — A
 real-time product that helps retail options traders find high-probability setups without
 manual research. Auto-scans 500+ S&P 500 stocks and ETFs three times per trading day, uses
@@ -59,7 +69,7 @@ referral intelligence platform, and AI-powered workflow automations.
 
 ### Toolkit
 
-TypeScript · React / Next.js · Node · Python · PostgreSQL / Supabase · Tailwind · Vercel · GitHub Actions · Anthropic API
+TypeScript · JavaScript · React / Next.js · Node · Python · PostgreSQL / Supabase · Tailwind · Vercel · GitHub Actions · Playwright · Anthropic API
 
 ---
 
